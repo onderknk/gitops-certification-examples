@@ -1,5 +1,5 @@
 ---
-apiVersion: argoproj.io/v1alpha1
+apiVersion: argoproj.github.io//v1alpha1
 kind: Rollout
 metadata:
   name: simple-rollout
